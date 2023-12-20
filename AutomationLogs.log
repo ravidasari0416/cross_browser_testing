@@ -1,0 +1,139 @@
+2023-12-20 19:29:49,928  drivers.py 21  ERROR - Browser not supported
+2023-12-20 19:29:49,928  drivers.py 27  ERROR - Failed to initialize the web driver: Browser not supported
+Traceback (most recent call last):
+  File "C:\Users\ravie\PycharmProjects\cross_browser\utils\drivers.py", line 22, in __init__
+    raise ValueError("Browser not supported")
+ValueError: Browser not supported
+2023-12-20 19:30:31,293  drivers.py 27  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 19:30:31,300  test_login.py 22  INFO - Title validation passed.
+2023-12-20 19:30:33,541  drivers.py 40  INFO - Web driver closed.
+2023-12-20 20:43:34,951  drivers.py 25  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 20:43:35,546  test_login.py 24  ERROR - Title validation failed: Expected title was 'Apple TV+', but actual title was ''.
+2023-12-20 20:43:37,741  drivers.py 38  INFO - Web driver closed.
+2023-12-20 20:43:49,189  drivers.py 25  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 20:49:24,450  drivers.py 26  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 21:03:38,726  drivers.py 26  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 21:10:16,516  drivers.py 26  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 21:10:16,522  test_login.py 23  INFO - Title validation passed.
+2023-12-20 21:11:18,597  drivers.py 26  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 21:11:18,624  test_login.py 23  INFO - Title validation passed.
+2023-12-20 21:11:20,774  drivers.py 39  INFO - Web driver closed.
+2023-12-20 21:20:04,568  drivers.py 26  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 21:20:04,588  test_login.py 23  INFO - Title validation passed.
+2023-12-20 21:31:17,387  drivers.py 26  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 21:31:21,553  drivers.py 26  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 21:31:21,608  test_login.py 23  INFO - Title validation passed.
+2023-12-20 21:31:23,882  drivers.py 39  INFO - Web driver closed.
+2023-12-20 21:36:04,008  drivers.py 26  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 21:36:08,363  drivers.py 26  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 21:36:30,133  drivers.py 26  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 21:36:34,580  drivers.py 26  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 21:40:12,319  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 21:40:55,545  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 21:41:13,328  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 21:42:19,605  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 21:42:19,618  test_login.py 21  INFO - Title validation passed.
+2023-12-20 21:42:21,814  drivers.py 39  INFO - Web driver closed.
+2023-12-20 21:43:46,843  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 21:43:46,860  test_login.py 21  INFO - Title validation passed. Expected title Apple TV+ & actual title Apple TV+ 
+2023-12-20 21:43:49,036  drivers.py 39  INFO - Web driver closed.
+2023-12-20 21:52:21,005  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 21:52:21,017  test_login.py 21  INFO - Title validation passed. Expected title Apple TV+ & actual title Apple TV+ 
+2023-12-20 21:52:23,209  drivers.py 39  INFO - Web driver closed.
+2023-12-20 21:52:39,871  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 21:52:42,020  drivers.py 39  INFO - Web driver closed.
+2023-12-20 21:53:29,192  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 21:53:31,334  drivers.py 39  INFO - Web driver closed.
+2023-12-20 21:54:39,124  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 21:54:41,333  drivers.py 39  INFO - Web driver closed.
+2023-12-20 21:55:30,476  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 21:55:32,652  drivers.py 39  INFO - Web driver closed.
+2023-12-20 21:56:27,712  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 21:56:29,867  drivers.py 39  INFO - Web driver closed.
+2023-12-20 22:01:55,267  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:01:57,449  drivers.py 39  INFO - Web driver closed.
+2023-12-20 22:07:00,405  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:07:02,585  drivers.py 39  INFO - Web driver closed.
+2023-12-20 22:07:58,967  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:08:48,976  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:08:51,152  drivers.py 39  INFO - Web driver closed.
+2023-12-20 22:10:29,368  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:10:41,515  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:10:43,681  drivers.py 39  INFO - Web driver closed.
+2023-12-20 22:13:45,374  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:13:47,553  drivers.py 39  INFO - Web driver closed.
+2023-12-20 22:16:13,119  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:16:17,746  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:16:17,747  test_login.py 30  INFO - reached signin element
+2023-12-20 22:16:22,141  drivers.py 39  INFO - Web driver closed.
+2023-12-20 22:17:10,886  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:17:15,471  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:17:15,471  test_login.py 30  INFO - reached signin element
+2023-12-20 22:17:20,090  drivers.py 39  INFO - Web driver closed.
+2023-12-20 22:18:35,468  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:18:37,647  drivers.py 39  INFO - Web driver closed.
+2023-12-20 22:20:28,490  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:20:32,936  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:20:32,936  test_login.py 30  INFO - reached signin element
+2023-12-20 22:20:38,407  drivers.py 39  INFO - Web driver closed.
+2023-12-20 22:21:25,260  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:21:36,301  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:21:40,618  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:21:40,618  test_login.py 30  INFO - reached signin element
+2023-12-20 22:21:45,167  drivers.py 39  INFO - Web driver closed.
+2023-12-20 22:22:08,633  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:22:08,634  test_login.py 30  INFO - reached signin element
+2023-12-20 22:22:10,821  drivers.py 41  ERROR - Failed to close the web driver: 'NoneType' object has no attribute 'quit'
+Traceback (most recent call last):
+  File "C:\Users\ravie\PycharmProjects\cross_browser\utils\drivers.py", line 38, in tear_down
+    self.driver.quit()
+AttributeError: 'NoneType' object has no attribute 'quit'
+2023-12-20 22:22:32,261  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:22:32,261  test_login.py 30  INFO - reached signin element
+2023-12-20 22:22:34,423  drivers.py 41  ERROR - Failed to close the web driver: 'NoneType' object has no attribute 'quit'
+Traceback (most recent call last):
+  File "C:\Users\ravie\PycharmProjects\cross_browser\utils\drivers.py", line 38, in tear_down
+    self.driver.quit()
+AttributeError: 'NoneType' object has no attribute 'quit'
+2023-12-20 22:23:07,238  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:23:07,238  test_login.py 30  INFO - reached signin element
+2023-12-20 22:23:09,431  drivers.py 41  ERROR - Failed to close the web driver: name 'driver' is not defined
+Traceback (most recent call last):
+  File "C:\Users\ravie\PycharmProjects\cross_browser\utils\drivers.py", line 38, in tear_down
+    driver.quit()
+NameError: name 'driver' is not defined
+2023-12-20 22:24:57,374  drivers.py 40  ERROR - Failed to close the web driver: 'NoneType' object has no attribute 'quit'
+Traceback (most recent call last):
+  File "C:\Users\ravie\PycharmProjects\cross_browser\utils\drivers.py", line 37, in tear_down
+    self.driver.quit()
+AttributeError: 'NoneType' object has no attribute 'quit'
+2023-12-20 22:33:48,881  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:34:09,388  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:34:31,842  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:34:31,848  test_login.py 21  INFO - Title validation passed. Expected title Apple TV+ & actual title Apple TV+ 
+2023-12-20 22:34:34,046  drivers.py 38  INFO - Web driver closed.
+2023-12-20 22:36:18,266  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:36:18,276  test_login.py 20  INFO - Title validation passed. Expected title Apple TV+ & actual title Apple TV+ 
+2023-12-20 22:36:20,437  drivers.py 38  INFO - Web driver closed.
+2023-12-20 22:37:29,512  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:38:09,127  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:38:11,309  drivers.py 38  INFO - Web driver closed.
+2023-12-20 22:39:55,605  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:39:57,805  drivers.py 38  INFO - Web driver closed.
+2023-12-20 22:41:21,955  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:41:36,722  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:41:38,922  drivers.py 38  INFO - Web driver closed.
+2023-12-20 22:45:00,180  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:46:08,821  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:59:01,638  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:59:34,227  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 22:59:57,825  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 23:00:02,085  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 23:00:02,085  test_login.py 57  ERROR - An error occurred during the sign-in test: 'WebDriver' object has no attribute 'set_driver'
+2023-12-20 23:00:04,450  drivers.py 38  INFO - Web driver closed.
+2023-12-20 23:00:10,798  drivers.py 38  INFO - Web driver closed.
+2023-12-20 23:01:37,365  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 23:01:37,366  test_login.py 55  ERROR - An error occurred during the sign-in test: 'WebDriver' object has no attribute 'set_driver'
+2023-12-20 23:01:51,745  drivers.py 28  INFO - Opened https://tv.apple.com/ in edge browser.
+2023-12-20 23:01:51,748  test_login.py 55  ERROR - An error occurred during the sign-in test: 'WebDriver' object has no attribute 'set_driver'
+2023-12-20 23:01:53,960  drivers.py 38  INFO - Web driver closed.
